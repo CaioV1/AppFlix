@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.senaijandira.room.VisualizarActivity">
+    <item
+        android:id="@+id/excluir"
+        android:title="@string/title_activity_visualizar"
+        android:icon="@android:drawable/ic_menu_delete"
+        app:showAsAction="always" />
+</menu>
